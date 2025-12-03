@@ -1,0 +1,14 @@
+# PyTorch (compatible con ARM/Raspberry Pi)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Machine Learning & Data Science
+numpy>=1.23.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Networking & System
+speedtest-cli>=2.1.3
+
+# Optional: Para visualización y logging
+matplotlib>=3.7.0
